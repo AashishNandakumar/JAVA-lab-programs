@@ -53,6 +53,19 @@ packages.~~ --ANAGHA G
 18. ~~Simple Array list program~~ --ALAN
 19. ~~Array List with Loose Coupling~~ --ALAN
 20. ~~Array list demo using generics (student class in arraylist)~~ --AUB
+21. ~~Array list sorting of user-defined objects (using comparator and comparable)~~ --ALAN, V2 --ADITYA PRAKASH
+22. ~~Array list sorting of user-defined objects (using comparator)~~ --ADITYA PRAKASH
+23. ~~Array list sorting of user-defined objects (using comparable)~~ --AUB
+24. ~~Facade design pattern~~ --ALAN
+25. ~~Priority Queues~~
+    1. ~~Priority queue of user defined class objects~~ -- AUB
+    2. ~~Priority queue demo~~ --AUB
+26. ~~Exception Handling programs~~
+    1. ~~Using finnaly demo~~ --AUB
+    2. ~~Creating exception demo 1~~ --AUB
+    3. ~~Creating exception demo 2~~ --AUB
+    4. ~~Using throws~~ --AUB
+    5. ~~Using throwable~~ --AUB
 
 ### B. LAB programs
 1. ~~Write a java program that prints all real solutions to the quadratic equation
@@ -79,6 +92,17 @@ method biodata().~~ --ADITYA PRAKASH
 8. ~~Write a program to perform string operations using ArrayList. Write functions for
 the following a. Append - add at end b. Insert – add at particular index c. Search d. List all
 string starts with given letter.~~ --ALAN
+9. ~~Write a Java program to read two integers a and b. Compute a/b and print, when
+b is not zero. Raise an exception when b is equal to zero.~~ --ALAN
+10. Write a Java program that implements a multi-thread application that has three
+threads. First thread generates a random integer for every 1 second; second thread
+computes the square of the number and prints; third thread will print the value of cube of
+the number.
+11. Write a java program that reads a file name from the user, displays information about
+whether the file exists, whether the file is readable, or writable, the type of file and the
+length of the file in bytes
+12. ~~Develop an applet that displays a simple message in center of the screen.
+Develop a simple calculator using Swings.~~ --ALAN
 
 ## Need more help?
 
